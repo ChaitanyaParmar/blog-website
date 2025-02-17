@@ -23,7 +23,7 @@
     margin-bottom: 20px;
     border: 2px solid grey;
     border-radius: 5px;
-    padding: 15px;
+    padding: 45px;
     font-size: 20px;
   }
   
@@ -41,9 +41,9 @@
     margin-top: 15px;
     /* height: 40px; */
   }
-
-  .formContainer #inputCreatePost Field {
-    padding: 15px;
+  
+   #inputCreatePost Field {
+    padding: 45px;
     /* height: 40px; */
   }
   
